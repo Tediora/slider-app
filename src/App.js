@@ -15,7 +15,7 @@ const Container = styled.div`
   max-width: 95%;
   height: 500px;
   background-color: #FCFCFC;
-  border-radius: 30px;
+  border-radius: 28px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 `;
 

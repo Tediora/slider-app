@@ -34,7 +34,7 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
             font-family: Fira Code, Consolas, 'Courier New', monospace;
             font-weight: 500;
             color: #414141;
-            margin: 50px 0;
+            margin: 60px 0 0 0;
           }
           .slider-row {
             display: flex;
@@ -48,13 +48,13 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
           .slider-value-container {
             display: flex;
             align-items: center;
-            gap: 16px;
+            gap: 10px;
             flex: 1;
           }
           .slider {
             flex: 1;
             -webkit-appearance: none;
-            height: 5px;
+            height: 4px;
             background: #C3C3C3;
             border-radius: 30px;
             outline: none;
@@ -62,21 +62,20 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
           .slider::-webkit-slider-thumb {
             -webkit-appearance: none;
             appearance: none;
-            width: 18px;
-            height: 18px;
-            background: #828282;
+            width: 16px;
+            height: 16px;
+            background: #4297DE;
             border-radius: 50%;
             cursor: pointer;
           }
           .slider::-moz-range-thumb {
-            width: 18px;
-            height: 18px;
-            background: #828282;
+            width: 16px;
+            height: 16px;
+            background: #4297DE;
             border-radius: 50%;
             cursor: pointer;
           }
           .slider-value {
-            min-width: 40px;
             text-align: center;
             font-size: medium;
           }

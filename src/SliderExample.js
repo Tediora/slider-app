@@ -22,8 +22,8 @@ const SliderExample = () => {
       <div style={{
         width: '300px',
         height: '300px',
-        margin: '16px auto 50px auto',
-        borderRadius: '30px 30px 0 0',
+        margin: '0px auto 40px auto',
+        borderRadius: '28px 28px 0 0',
         overflow: 'hidden'
       }}>
         <img 
@@ -32,6 +32,7 @@ const SliderExample = () => {
           style={{
             width: '100%',
             height: '100%',
+            marginTop: '10px',
             objectFit: 'cover',
             filter: `saturate(${saturation}%) hue-rotate(${hue}deg) brightness(1)`,
             transition: 'filter 0.3s ease'
