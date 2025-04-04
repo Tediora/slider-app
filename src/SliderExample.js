@@ -21,7 +21,6 @@ const SliderExample = () => {
       {/* Image Container */}
       <div style={{
         width: '300px',
-        maxWidth: '95%',
         height: '300px',
         margin: '10px auto 50px auto',
         borderRadius: '30px 30px 0 0',
