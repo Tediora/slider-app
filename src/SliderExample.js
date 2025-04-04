@@ -23,7 +23,7 @@ const SliderExample = () => {
         width: '300px',
         height: '300px',
         margin: '10px auto 50px auto',
-        borderRadius: '40px 40px 0 0',
+        borderRadius: '30px 30px 0 0',
         overflow: 'hidden'
       }}>
         <img 
