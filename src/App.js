@@ -12,7 +12,7 @@ const Page = styled.div`
 const Container = styled.div`
   margin: 0 auto;
   width: 400px;
-  max-width: 100%;
+  max-width: 98%;
   height: 500px;
   background-color: #FCFCFC;
   border-radius: 30px;
