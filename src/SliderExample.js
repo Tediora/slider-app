@@ -22,7 +22,7 @@ const SliderExample = () => {
       <div style={{
         width: '300px',
         height: '300px',
-        margin: '10px auto 50px auto',
+        margin: '16px auto 50px auto',
         borderRadius: '30px 30px 0 0',
         overflow: 'hidden'
       }}>
@@ -33,7 +33,7 @@ const SliderExample = () => {
             width: '100%',
             height: '100%',
             objectFit: 'cover',
-            filter: `saturate(${saturation}%) hue-rotate(${hue}deg) brightness(2)`,
+            filter: `saturate(${saturation}%) hue-rotate(${hue}deg) brightness(1)`,
             transition: 'filter 0.3s ease'
           }}
         />
