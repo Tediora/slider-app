@@ -31,7 +31,8 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
       <style>
         {`
           .slider-container {
-            font-family: sans-serif;
+            font-family: Fira Code, Consolas, 'Courier New', monospace;
+            font-weight: 500;
             color: #414141;
             margin: 50px 0;
           }
@@ -42,7 +43,6 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
           .slider-label {
             margin-right: 16px;
             font-size: medium;
-            font-weight: 500;
             text-align: left;
           }
           .slider-value-container {
@@ -78,7 +78,6 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
           .slider-value {
             min-width: 40px;
             text-align: center;
-            font-weight: 500;
             font-size: medium;
           }
         `}
