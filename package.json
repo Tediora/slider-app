@@ -42,5 +42,6 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://tediora.github.io/slider-app/"
+  "homepage": "https://tediora.github.io/slider-app/",
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace"
 }

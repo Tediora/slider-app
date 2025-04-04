@@ -4,7 +4,7 @@ import ShoePNG from './ShoePNG.png';
 
 const SliderExample = () => {
   const [hue, setHue] = useState(0); // Start with no hue rotation
-  const [brightness, setBrightness] = useState(100); // Start with normal brightness
+  const [saturation, setSaturation] = useState(100); // Start with normal saturation
  
   const imageSrc = ShoePNG;
 
@@ -12,8 +12,8 @@ const SliderExample = () => {
     setHue(value);
   };
 
-  const handleBrightnessChange = (value) => {
-    setBrightness(value);
+  const handleSaturationChange = (value) => {
+    setSaturation(value);
   };
 
   return (
@@ -33,7 +33,7 @@ const SliderExample = () => {
             width: '100%',
             height: '100%',
             objectFit: 'cover',
-            filter: `brightness(${brightness}%) hue-rotate(${hue}deg)`,
+            filter: `saturate(${saturation}%) hue-rotate(${hue}deg)`,
             transition: 'filter 0.3s ease'
           }}
         />
@@ -46,15 +46,15 @@ const SliderExample = () => {
         step={5} 
         defaultValue={0} 
         onChange={handleHueChange} 
-        label="Colour"
+        label="Hue"
       />
       <Slider 
-        min={100} 
+        min={0} 
         max={150} 
         step={5} 
         defaultValue={100} 
-        onChange={handleBrightnessChange} 
-        label="Brightness"
+        onChange={handleSaturationChange} 
+        label="Saturation"
       />
     </div>
   );

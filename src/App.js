@@ -7,6 +7,7 @@ const Page = styled.div`
   width: 100%;
   height: 100%;
   background-color: #4297DE;
+  font-family: 'Courier New', monospace;
 `;
 
 const Container = styled.div`
