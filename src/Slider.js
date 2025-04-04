@@ -40,14 +40,10 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
             align-items: center;
           }
           .slider-label {
-            min-width: 150px;
-            margin-left: -225px;
-            margin-right: 75px;
-            color: #FFF;
-            font-size: large;
+            margin-right: 16px;
+            font-size: medium;
             font-weight: 500;
-            text-align: right;
-            
+            text-align: left;
           }
           .slider-value-container {
             display: flex;
@@ -83,7 +79,7 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
             min-width: 40px;
             text-align: center;
             font-weight: 500;
-            font-size: large;
+            font-size: medium;
           }
         `}
       </style>
