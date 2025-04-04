@@ -47,6 +47,7 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
             font-size: large;
             font-weight: 500;
             text-align: right;
+            
           }
           .slider-value-container {
             display: flex;

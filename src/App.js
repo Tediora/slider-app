@@ -3,7 +3,14 @@ import './App.css';
 import styled from "styled-components";
 import SliderExample from './SliderExample';
 
+const Page = styled.div`
+  width: 100%;
+  height: 100%;
+  background-color: #4297DE;
+`;
+
 const Container = styled.div`
+  margin: 0 auto;
   width: 400px;
   height: 500px;
   background-color: #FCFCFC;
@@ -15,9 +22,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Container>
-          <SliderExample />
-        </Container>
+        <Page>
+          <Container>
+            <SliderExample />
+          </Container>
+        </Page>
       </header>
     </div>
   );
