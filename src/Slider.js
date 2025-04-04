@@ -39,6 +39,7 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
           .slider-row {
             display: flex;
             align-items: center;
+            max-width: 95%;
           }
           .slider-label {
             margin-right: 16px;
