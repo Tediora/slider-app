@@ -36,7 +36,7 @@ const Slider = ({ min = 0, max = 100, step = 1, defaultValue = 50, onChange, lab
         {`
           .slider-container {
             font-family: 'Jura', sans-serif;
-            font-weight: 600;
+            font-weight: 500;
             color: #414141;
             margin: 40px 0 0 0;
           }
