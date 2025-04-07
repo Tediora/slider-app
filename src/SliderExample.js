@@ -51,7 +51,7 @@ const SliderExample = () => {
       />
       <Slider 
         min={0} 
-        max={150} 
+        max={200} 
         step={5} 
         defaultValue={100} 
         onChange={handleSaturationChange} 
