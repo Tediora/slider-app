@@ -5,8 +5,7 @@ A React component that allows users to adjust the hue and saturation of an image
 Try it here: https://tediora.github.io/slider-app/
 
 # Features
-- Live adjustment of image **hue**
-- Live adjustment of image **saturation**
+- Live adjustment of image **hue** and **saturation**
 - Real-time visual feedback
 - Simple and reusable React component
 
