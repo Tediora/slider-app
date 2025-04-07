@@ -17,7 +17,8 @@ Try it here: https://tediora.github.io/slider-app/
 - Option to add your own image
 - Export edited image
 
-Thanks for checking it out!
+# Feedback
+If you have any suggestions, ideas, or run into issues, feel free to reach out or open an issue. Thanks for checking it out!
 
 ---
 
