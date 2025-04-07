@@ -18,6 +18,8 @@ Try it here: https://tediora.github.io/slider-app/
 - Option to add your own image
 - Export edited image
 
+Thanks for checking it out!
+
 ---
 
 Built by Teodora Vasilca
