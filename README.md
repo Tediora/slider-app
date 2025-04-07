@@ -18,7 +18,8 @@ Try it here: https://tediora.github.io/slider-app/
 - Export edited image
 
 # Feedback
-If you have any suggestions, ideas, or run into issues, feel free to reach out or open an issue. Thanks for checking it out!
+If you have any suggestions, ideas, or run into issues, feel free to reach out or open an issue. 
+Thank you for your time!
 
 ---
 
