@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/slider-app/static/css/main.16fd85a5.css",
-    "main.js": "/slider-app/static/js/main.205cdda5.js",
+    "main.css": "/slider-app/static/css/main.75556dc8.css",
+    "main.js": "/slider-app/static/js/main.1f3ff6cd.js",
     "static/js/453.7fa93983.chunk.js": "/slider-app/static/js/453.7fa93983.chunk.js",
     "static/media/ShoePNG.png": "/slider-app/static/media/ShoePNG.d14e95e604e563a30cf4.png",
+    "static/media/jura-latin-ext-700-normal.woff": "/slider-app/static/media/jura-latin-ext-700-normal.6d03af95b00c75699144.woff",
+    "static/media/jura-latin-700-normal.woff": "/slider-app/static/media/jura-latin-700-normal.306143b5ea0dec9ebedb.woff",
+    "static/media/jura-latin-700-normal.woff2": "/slider-app/static/media/jura-latin-700-normal.54738c49421cd4f3c87e.woff2",
+    "static/media/jura-latin-ext-700-normal.woff2": "/slider-app/static/media/jura-latin-ext-700-normal.2942d915e9b7d0e6c515.woff2",
+    "static/media/jura-cyrillic-700-normal.woff": "/slider-app/static/media/jura-cyrillic-700-normal.6daba050884e56b87486.woff",
+    "static/media/jura-greek-ext-700-normal.woff": "/slider-app/static/media/jura-greek-ext-700-normal.3183144944438ae6275d.woff",
+    "static/media/jura-cyrillic-700-normal.woff2": "/slider-app/static/media/jura-cyrillic-700-normal.e369ff79a149776d059d.woff2",
+    "static/media/jura-vietnamese-700-normal.woff": "/slider-app/static/media/jura-vietnamese-700-normal.232bcb78b0295888f983.woff",
+    "static/media/jura-greek-700-normal.woff": "/slider-app/static/media/jura-greek-700-normal.05eecff5c51536f16dfe.woff",
+    "static/media/jura-greek-ext-700-normal.woff2": "/slider-app/static/media/jura-greek-ext-700-normal.2a787f9f3f479ffa3a3f.woff2",
+    "static/media/jura-greek-700-normal.woff2": "/slider-app/static/media/jura-greek-700-normal.b473c4903524277da06a.woff2",
+    "static/media/jura-kayah-li-700-normal.woff": "/slider-app/static/media/jura-kayah-li-700-normal.44964447f4d196d000b0.woff",
+    "static/media/jura-vietnamese-700-normal.woff2": "/slider-app/static/media/jura-vietnamese-700-normal.71fc799628c1184cc421.woff2",
+    "static/media/jura-kayah-li-700-normal.woff2": "/slider-app/static/media/jura-kayah-li-700-normal.f1a0d15fbb31d02ca9ec.woff2",
+    "static/media/jura-cyrillic-ext-700-normal.woff": "/slider-app/static/media/jura-cyrillic-ext-700-normal.68ea298d8167522b3f4f.woff",
+    "static/media/jura-cyrillic-ext-700-normal.woff2": "/slider-app/static/media/jura-cyrillic-ext-700-normal.bf4d757f70cc03207e98.woff2",
     "index.html": "/slider-app/index.html",
-    "main.16fd85a5.css.map": "/slider-app/static/css/main.16fd85a5.css.map",
-    "main.205cdda5.js.map": "/slider-app/static/js/main.205cdda5.js.map",
+    "main.75556dc8.css.map": "/slider-app/static/css/main.75556dc8.css.map",
+    "main.1f3ff6cd.js.map": "/slider-app/static/js/main.1f3ff6cd.js.map",
     "453.7fa93983.chunk.js.map": "/slider-app/static/js/453.7fa93983.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.16fd85a5.css",
-    "static/js/main.205cdda5.js"
+    "static/css/main.75556dc8.css",
+    "static/js/main.1f3ff6cd.js"
   ]
 }
